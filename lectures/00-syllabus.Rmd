@@ -57,9 +57,9 @@ class: title title-1
 
 **Content -> Course Information -> POLI 102 Syllabus** 
 
-**Provides overview of course and includes required materials and assignments** 
+**Provides an overview of the course and includes required materials and assignments** 
 
-**Specific required readings for each module will be list on OAKS** 
+**Specific required readings and assignments for each module will be listed on OAKS** 
 
 ---
 
